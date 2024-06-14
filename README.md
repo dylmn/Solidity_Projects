@@ -20,4 +20,4 @@ This project involves a test solidity code of creating a test token that include
 
 Contributors names and contact info
 
-ex. https://github.com/dylmn
+https://github.com/dylmn
