@@ -18,6 +18,7 @@ To use this contract, you'll need a development environment that supports Solidi
 
 Mint Tokens
 * Under the Deployed/Unpinned Contracts in Remix, a mint function button can be seen with inputs of an address and a value of tokens to be minted. Insert the proper data and press transact.
+  
 Burn Tokens
 * Similar to minting, there would also be a burn function with the same inputs. Insert the proper data and press transact to burn tokens.
 
